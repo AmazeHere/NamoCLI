@@ -54,6 +54,7 @@ async function question1() {
       'yes',
       'no',
       'he trans',
+      'hell yeah'
     ],
   });
 
